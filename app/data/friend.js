@@ -1,9 +1,8 @@
-//array that holds all the 'friends' that have taken the survey
-//initialize starting with 'dummy' data
+//create an array that holds the 'friends' that have taken the survey
 var friendList = [
   {
-    name: 'Stefanie Ding',
-    profilePic: 'https://avatars3.githubusercontent.com/u/17751317?v=3&s=466',
+    name: 'Mike Reikofski',
+    profilePic: 'https://avatars0.githubusercontent.com/u/31781477?s=460&v=4',
     scores: [
       "4",
       "5",
